@@ -1,0 +1,19 @@
+{
+  "name": "academify",
+  "version": "1.0.0",
+  "description": "Academy Website",
+  "default": "./src/index.html",
+  "scripts": {
+    "start": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html --dist-dir ./dist"
+  },
+  "author": "Hazem ahmed",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.2.1",
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "fracty": "^1.0.12"
+  }
+}

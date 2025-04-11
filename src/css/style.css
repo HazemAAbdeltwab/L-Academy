@@ -605,21 +605,21 @@ ul.sec-menu li.sec-l a.sec-a:hover:before {
   background-color: rgba(0, 255, 0, 0.2);
 }
 .features-box:first-child .image {
-  background: url(/images/features-01.jpg);
+  background: url(../images/features-01.jpg);
   background-size: 100% 100%;
 }
 .features-box:nth-child(2) .image::before {
   background-color: rgba(255, 0, 0, 0.2);
 }
 .features-box:nth-child(2) .image {
-  background: url(/images/features-02.jpg);
+  background: url(../images/features-02.jpg);
   background-size: 100% 100%;
 }
 .features-box:last-child .image::before {
   background-color: rgba(0, 0, 255, 0.2);
 }
 .features-box:last-child .image {
-  background: url(/images/features-03.jpg);
+  background: url(../images/features-03.jpg);
   background-size: 100% 100%;
 }
 
@@ -994,7 +994,7 @@ ul.sec-menu li.sec-l a.sec-a:hover:before {
   right: 0;
   width: 200px;
   height: 200px;
-  background: url(/images/dots.png);
+  background: url(../images/dots.png);
   background-size: cover;
   background-position: center;
   z-index: -1;
@@ -1006,7 +1006,7 @@ ul.sec-menu li.sec-l a.sec-a:hover:before {
   left: 0;
   width: 200px;
   height: 200px;
-  background: url(/images/dots.png);
+  background: url(../images/dots.png);
   background-size: cover;
   background-position: center;
   z-index: -1;
@@ -1103,7 +1103,7 @@ ul.sec-menu li.sec-l a.sec-a:hover:before {
   right: 0;
   width: 200px;
   height: 200px;
-  background: url(/images/dots.png);
+  background: url(../images/dots.png);
   background-size: cover;
   background-position: center;
   z-index: -1;
@@ -1115,7 +1115,7 @@ ul.sec-menu li.sec-l a.sec-a:hover:before {
   left: 0;
   width: 200px;
   height: 200px;
-  background: url(/images/dots.png);
+  background: url(../images/dots.png);
   background-size: cover;
   background-position: center;
   z-index: -1;
@@ -1261,7 +1261,7 @@ ul.sec-menu li.sec-l a.sec-a:hover:before {
 /* ************************************stats***************************** */
 .stats {
   width: 100%;
-  background: url(/images/stats.jpg);
+  background: url(../images/stats.jpg);
   position: relative;
   z-index: -10;
 }
@@ -1354,7 +1354,7 @@ ul.sec-menu li.sec-l a.sec-a:hover:before {
   color: white;
 }
 .request-piece:first-child::after {
-  background: url(/images/discount-background1.jpg);
+  background: url(../images/discount-background1.jpg);
   background-size: cover;
   background-position: center;
   position: absolute;
